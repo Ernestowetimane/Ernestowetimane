@@ -22,6 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+
 </div>
 
 ###
@@ -32,16 +34,4 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="75" height="35" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="75" height="35" alt="linkedin logo"  />
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ernestowetimane/Ernestowetimane/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ernestowetimane/Ernestowetimane/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ernestowetimane/Ernestowetimane/output/pacman-contribution-graph.svg">
-</picture>
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Ernestowetimane/Ernestowetimane/output/snake.svg" alt="Snake animation" />
-
 ###
