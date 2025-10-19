@@ -28,6 +28,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="75" height="35" alt="linkedin logo"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/Ernestowetimane/Ernestowetimane/output/snake.svg" alt="Snake animation" />
+
 
 
