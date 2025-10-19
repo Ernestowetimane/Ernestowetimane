@@ -1,4 +1,4 @@
-<h2 align="left">Ola 👋! MEU NOME É ERNESTO WETIMANE</h2>
+<h2 align="left">OLA 👋! MEU NOME É ERNESTO WETIMANE</h2>
 
 ###
 
